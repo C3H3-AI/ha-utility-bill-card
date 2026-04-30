@@ -49,7 +49,7 @@
 ### 添加卡片
 
 ```yaml
-type: custom:ha-utility-bill-card
+type: custom:utility-bill-card
 entity: sensor.wenzhou_water_账户余额
 title: 温州水务
 ```
@@ -57,7 +57,7 @@ title: 温州水务
 或：
 
 ```yaml
-type: custom:ha-utility-bill-card
+type: custom:utility-bill-card
 entity: sensor.crcgas_account_balance
 title: 华润燃气
 ```
@@ -74,7 +74,7 @@ title: 华润燃气
 ### 温州水务
 
 ```yaml
-type: custom:ha-utility-bill-card
+type: custom:utility-bill-card
 entity: sensor.wenzhou_water_账户余额
 title: 温州水务
 ```
@@ -82,7 +82,7 @@ title: 温州水务
 ### 华润燃气
 
 ```yaml
-type: custom:ha-utility-bill-card
+type: custom:utility-bill-card
 entity: sensor.crcgas_account_balance
 title: 华润燃气
 ```
