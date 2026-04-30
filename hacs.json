@@ -1,0 +1,6 @@
+{
+  "name": "Utility Bill Card",
+  "description": "Home Assistant 统一账单卡片，支持温州水务和华润燃气",
+  "content_in_root": false,
+  "homeassistant": "2024.1.0"
+}
